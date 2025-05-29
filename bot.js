@@ -3,7 +3,7 @@ module.exports = {
     bot: {
 
         // bot numebr
-        phoneNumber: "27663746228", // add ur bot numebr
+        phoneNumber: "", // add ur bot numebr
 
         // extra
         co: [""], // add co owner
